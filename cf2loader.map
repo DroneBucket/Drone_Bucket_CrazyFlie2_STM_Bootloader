@@ -1,0 +1,2263 @@
+Archive member included because of file (symbol)
+
+/home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+                              /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (exit)
+/home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+                              /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+                              /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_init_array)
+/home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+                              bin/main.o (memcpy)
+/home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+                              /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (memset)
+/home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+                              /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+                              /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+                              /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+                              /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .data          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .bss           0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .init          0x00000000        0x4 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .fini          0x00000000        0x4 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .ARM.attributes
+                0x00000000       0x22 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .text          0x00000000       0x5c /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .data          0x00000000        0x4 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .bss           0x00000000       0x1c /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .init_array    0x00000000        0x4 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .fini_array    0x00000000        0x4 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .eh_frame      0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .jcr           0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x34 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .text          0x00000000       0x74 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .data          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .bss           0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.exidx     0x00000000        0x8 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.attributes
+                0x00000000       0x20 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .text          0x00000000       0x14 bin/startup_stm32f40xx.o
+ .data          0x00000000        0x0 bin/startup_stm32f40xx.o
+ .bss           0x00000000        0x0 bin/startup_stm32f40xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/system_stm32f4xx.o
+ .text          0x00000000        0x0 bin/system_stm32f4xx.o
+ .data          0x00000000        0x0 bin/system_stm32f4xx.o
+ .bss           0x00000000        0x0 bin/system_stm32f4xx.o
+ .data.AHBPrescTable
+                0x00000000       0x10 bin/system_stm32f4xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xf8 bin/system_stm32f4xx.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_rcc.o
+ .text          0x00000000        0x0 bin/stm32f4xx_rcc.o
+ .data          0x00000000        0x0 bin/stm32f4xx_rcc.o
+ .bss           0x00000000        0x0 bin/stm32f4xx_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x70 bin/stm32f4xx_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x24 bin/stm32f4xx_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x50 bin/stm32f4xx_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_HSICmd
+                0x00000000       0x20 bin/stm32f4xx_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x40 bin/stm32f4xx_rcc.o
+ .text.RCC_LSICmd
+                0x00000000       0x20 bin/stm32f4xx_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000       0x20 bin/stm32f4xx_rcc.o
+ .text.RCC_PLLI2SConfig
+                0x00000000       0x28 bin/stm32f4xx_rcc.o
+ .text.RCC_PLLI2SCmd
+                0x00000000       0x20 bin/stm32f4xx_rcc.o
+ .text.RCC_PLLSAIConfig
+                0x00000000       0x30 bin/stm32f4xx_rcc.o
+ .text.RCC_PLLSAICmd
+                0x00000000       0x20 bin/stm32f4xx_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000       0x20 bin/stm32f4xx_rcc.o
+ .text.RCC_MCO1Config
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_MCO2Config
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x38 bin/stm32f4xx_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x20 bin/stm32f4xx_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x38 bin/stm32f4xx_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x38 bin/stm32f4xx_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x38 bin/stm32f4xx_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x5c bin/stm32f4xx_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000       0x20 bin/stm32f4xx_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000       0x20 bin/stm32f4xx_rcc.o
+ .text.RCC_I2SCLKConfig
+                0x00000000       0x1c bin/stm32f4xx_rcc.o
+ .text.RCC_SAIPLLI2SClkDivConfig
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_SAIPLLSAIClkDivConfig
+                0x00000000       0x40 bin/stm32f4xx_rcc.o
+ .text.RCC_SAIBlockACLKConfig
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_SAIBlockBCLKConfig
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_LTDCCLKDivConfig
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_TIMCLKPresConfig
+                0x00000000       0x1c bin/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockCmd
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockCmd
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphClockCmd
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphResetCmd
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphResetCmd
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphClockLPModeCmd
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockLPModeCmd
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockLPModeCmd
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x00000000       0x3c bin/stm32f4xx_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x4c bin/stm32f4xx_rcc.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x74 bin/stm32f4xx_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x1c bin/stm32f4xx_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x38 bin/stm32f4xx_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000       0x20 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x892 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0x5e bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0x3b bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0x22 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0x44 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0x1c bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x1f7 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0x18 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0x42 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0xc91 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000     0x8bb0 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x44f bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0xb2 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x477 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0xae bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x41c bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x2bc bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x2bb bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0x64 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0xe7 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x57b bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x342 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x36c bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0xf7 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x73b bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x223 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0x34 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0x82 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x144 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0xc3 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0x40 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x3cf bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x188 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x149 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000      0x279 bin/stm32f4xx_rcc.o
+ .debug_macro   0x00000000       0x35 bin/stm32f4xx_rcc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_gpio.o
+ .text          0x00000000        0x0 bin/stm32f4xx_gpio.o
+ .data          0x00000000        0x0 bin/stm32f4xx_gpio.o
+ .bss           0x00000000        0x0 bin/stm32f4xx_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x34 bin/stm32f4xx_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x44 bin/stm32f4xx_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000       0x1c bin/stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000       0x34 bin/stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000       0x1c bin/stm32f4xx_gpio.o
+ .text.GPIO_SetBits
+                0x00000000       0x1c bin/stm32f4xx_gpio.o
+ .text.GPIO_ResetBits
+                0x00000000       0x1c bin/stm32f4xx_gpio.o
+ .text.GPIO_Write
+                0x00000000       0x1c bin/stm32f4xx_gpio.o
+ .text.GPIO_ToggleBits
+                0x00000000       0x24 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x892 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0x5e bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0x3b bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0x22 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0x44 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0x1c bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x1f7 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0x18 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0x42 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0xc91 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000     0x8bb0 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x44f bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0xb2 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x477 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0xae bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x41c bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x2bb bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0x64 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0xe7 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x62f bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x57b bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x342 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x36c bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0xf7 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x73b bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x223 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0x34 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0x82 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x144 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0xc3 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0x40 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x3cf bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x188 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x149 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000      0x279 bin/stm32f4xx_gpio.o
+ .debug_macro   0x00000000       0x35 bin/stm32f4xx_gpio.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_usart.o
+ .text          0x00000000        0x0 bin/stm32f4xx_usart.o
+ .data          0x00000000        0x0 bin/stm32f4xx_usart.o
+ .bss           0x00000000        0x0 bin/stm32f4xx_usart.o
+ .text.USART_DeInit
+                0x00000000      0x114 bin/stm32f4xx_usart.o
+ .text.USART_StructInit
+                0x00000000       0x38 bin/stm32f4xx_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x54 bin/stm32f4xx_usart.o
+ .text.USART_ClockStructInit
+                0x00000000       0x2c bin/stm32f4xx_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x38 bin/stm32f4xx_usart.o
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x44 bin/stm32f4xx_usart.o
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x40 bin/stm32f4xx_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x38 bin/stm32f4xx_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x40 bin/stm32f4xx_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x38 bin/stm32f4xx_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x38 bin/stm32f4xx_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x40 bin/stm32f4xx_usart.o
+ .text.USART_SendBreak
+                0x00000000       0x24 bin/stm32f4xx_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x40 bin/stm32f4xx_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x3c bin/stm32f4xx_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x40 bin/stm32f4xx_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x40 bin/stm32f4xx_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x38 bin/stm32f4xx_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x40 bin/stm32f4xx_usart.o
+ .text.USART_DMACmd
+                0x00000000       0x48 bin/stm32f4xx_usart.o
+ .text.USART_ClearFlag
+                0x00000000       0x20 bin/stm32f4xx_usart.o
+ .text.USART_GetITStatus
+                0x00000000       0xb8 bin/stm32f4xx_usart.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x38 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x892 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0x5e bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0x3b bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0x22 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0x44 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0x1c bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x1f7 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0x18 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0x42 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0xc91 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000     0x8bb0 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x44f bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0xb2 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x477 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0xae bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x41c bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x2bc bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x2bb bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0x64 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0xe7 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x62f bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x57b bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x342 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x36c bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0xf7 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x73b bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0x34 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0x82 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x144 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0xc3 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0x40 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x3cf bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x188 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x149 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000      0x279 bin/stm32f4xx_usart.o
+ .debug_macro   0x00000000       0x35 bin/stm32f4xx_usart.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_misc.o
+ .text          0x00000000        0x0 bin/stm32f4xx_misc.o
+ .data          0x00000000        0x0 bin/stm32f4xx_misc.o
+ .bss           0x00000000        0x0 bin/stm32f4xx_misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x24 bin/stm32f4xx_misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x40 bin/stm32f4xx_misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x38 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x892 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0x5e bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0x3b bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0x22 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0x44 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0x1c bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x1f7 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0x18 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0x42 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0xc91 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000     0x8bb0 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x44f bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0xb2 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x477 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0xae bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x41c bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x2bc bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x2bb bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0x64 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0xe7 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x62f bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x57b bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x342 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x36c bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0xf7 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x73b bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x223 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0x34 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x144 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0xc3 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0x40 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x3cf bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x188 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x149 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000      0x279 bin/stm32f4xx_misc.o
+ .debug_macro   0x00000000       0x35 bin/stm32f4xx_misc.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/stm32f4xx_flash.o
+ .text          0x00000000        0x0 bin/stm32f4xx_flash.o
+ .data          0x00000000        0x0 bin/stm32f4xx_flash.o
+ .bss           0x00000000        0x0 bin/stm32f4xx_flash.o
+ .text.FLASH_SetLatency
+                0x00000000       0x20 bin/stm32f4xx_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000       0x38 bin/stm32f4xx_flash.o
+ .text.FLASH_InstructionCacheCmd
+                0x00000000       0x38 bin/stm32f4xx_flash.o
+ .text.FLASH_DataCacheCmd
+                0x00000000       0x38 bin/stm32f4xx_flash.o
+ .text.FLASH_InstructionCacheReset
+                0x00000000       0x1c bin/stm32f4xx_flash.o
+ .text.FLASH_DataCacheReset
+                0x00000000       0x1c bin/stm32f4xx_flash.o
+ .text.FLASH_EraseAllSectors
+                0x00000000       0xa0 bin/stm32f4xx_flash.o
+ .text.FLASH_EraseAllBank1Sectors
+                0x00000000       0xa0 bin/stm32f4xx_flash.o
+ .text.FLASH_EraseAllBank2Sectors
+                0x00000000       0xa0 bin/stm32f4xx_flash.o
+ .text.FLASH_ProgramDoubleWord
+                0x00000000       0x70 bin/stm32f4xx_flash.o
+ .text.FLASH_ProgramHalfWord
+                0x00000000       0x6c bin/stm32f4xx_flash.o
+ .text.FLASH_ProgramByte
+                0x00000000       0x68 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_Unlock
+                0x00000000       0x30 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_Lock
+                0x00000000       0x1c bin/stm32f4xx_flash.o
+ .text.FLASH_OB_WRPConfig
+                0x00000000       0x58 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_WRP1Config
+                0x00000000       0x58 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_PCROPSelectionConfig
+                0x00000000       0x34 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_PCROPConfig
+                0x00000000       0x58 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_PCROP1Config
+                0x00000000       0x58 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_RDPConfig
+                0x00000000       0x2c bin/stm32f4xx_flash.o
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x58 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_BootConfig
+                0x00000000       0x38 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_BORConfig
+                0x00000000       0x38 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_Launch
+                0x00000000       0x30 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_GetUser
+                0x00000000       0x1c bin/stm32f4xx_flash.o
+ .text.FLASH_OB_GetWRP
+                0x00000000       0x18 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_GetWRP1
+                0x00000000       0x18 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_GetPCROP
+                0x00000000       0x18 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_GetPCROP1
+                0x00000000       0x18 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x30 bin/stm32f4xx_flash.o
+ .text.FLASH_OB_GetBOR
+                0x00000000       0x20 bin/stm32f4xx_flash.o
+ .text.FLASH_ITConfig
+                0x00000000       0x3c bin/stm32f4xx_flash.o
+ .text.FLASH_GetFlagStatus
+                0x00000000       0x34 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x892 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0x5e bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0x3b bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0x22 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0x44 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0x1c bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x1f7 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0x18 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0x42 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0xc91 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000     0x8bb0 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x44f bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0xb2 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x477 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0xae bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x2bc bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x2bb bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0x64 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0xe7 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x62f bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x57b bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x342 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x36c bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0xf7 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x73b bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x223 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0x34 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0x82 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x144 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0xc3 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0x40 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x3cf bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x188 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x149 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000      0x279 bin/stm32f4xx_flash.o
+ .debug_macro   0x00000000       0x35 bin/stm32f4xx_flash.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .group         0x00000000        0x8 bin/main.o
+ .text          0x00000000        0x0 bin/main.o
+ .data          0x00000000        0x0 bin/main.o
+ .bss           0x00000000        0x0 bin/main.o
+ .text.delayMs  0x00000000       0x30 bin/main.o
+ .debug_macro   0x00000000      0x892 bin/main.o
+ .debug_macro   0x00000000       0x22 bin/main.o
+ .debug_macro   0x00000000       0x44 bin/main.o
+ .debug_macro   0x00000000       0x1c bin/main.o
+ .debug_macro   0x00000000      0x1f7 bin/main.o
+ .debug_macro   0x00000000       0x5e bin/main.o
+ .debug_macro   0x00000000       0x3b bin/main.o
+ .debug_macro   0x00000000       0x18 bin/main.o
+ .debug_macro   0x00000000       0x42 bin/main.o
+ .debug_macro   0x00000000      0xc91 bin/main.o
+ .debug_macro   0x00000000     0x8bb0 bin/main.o
+ .debug_macro   0x00000000      0x44f bin/main.o
+ .debug_macro   0x00000000       0xb2 bin/main.o
+ .debug_macro   0x00000000      0x477 bin/main.o
+ .debug_macro   0x00000000       0xae bin/main.o
+ .debug_macro   0x00000000      0x41c bin/main.o
+ .debug_macro   0x00000000      0x2bc bin/main.o
+ .debug_macro   0x00000000      0x2bb bin/main.o
+ .debug_macro   0x00000000       0x64 bin/main.o
+ .debug_macro   0x00000000       0xe7 bin/main.o
+ .debug_macro   0x00000000      0x62f bin/main.o
+ .debug_macro   0x00000000      0x57b bin/main.o
+ .debug_macro   0x00000000      0x342 bin/main.o
+ .debug_macro   0x00000000      0x36c bin/main.o
+ .debug_macro   0x00000000       0xf7 bin/main.o
+ .debug_macro   0x00000000      0x73b bin/main.o
+ .debug_macro   0x00000000      0x223 bin/main.o
+ .debug_macro   0x00000000       0x34 bin/main.o
+ .debug_macro   0x00000000       0x82 bin/main.o
+ .debug_macro   0x00000000      0x144 bin/main.o
+ .debug_macro   0x00000000       0xc3 bin/main.o
+ .debug_macro   0x00000000       0x40 bin/main.o
+ .debug_macro   0x00000000      0x3cf bin/main.o
+ .debug_macro   0x00000000      0x188 bin/main.o
+ .debug_macro   0x00000000      0x149 bin/main.o
+ .debug_macro   0x00000000      0x279 bin/main.o
+ .debug_macro   0x00000000       0x35 bin/main.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .group         0x00000000        0x8 bin/uart.o
+ .text          0x00000000        0x0 bin/uart.o
+ .data          0x00000000        0x0 bin/uart.o
+ .bss           0x00000000        0x0 bin/uart.o
+ .text.uartIsTxReady
+                0x00000000       0x10 bin/uart.o
+ .debug_macro   0x00000000      0x892 bin/uart.o
+ .debug_macro   0x00000000       0x22 bin/uart.o
+ .debug_macro   0x00000000       0x5e bin/uart.o
+ .debug_macro   0x00000000       0x3b bin/uart.o
+ .debug_macro   0x00000000       0x22 bin/uart.o
+ .debug_macro   0x00000000       0x44 bin/uart.o
+ .debug_macro   0x00000000       0x1c bin/uart.o
+ .debug_macro   0x00000000      0x1f7 bin/uart.o
+ .debug_macro   0x00000000       0x18 bin/uart.o
+ .debug_macro   0x00000000       0x42 bin/uart.o
+ .debug_macro   0x00000000      0xc91 bin/uart.o
+ .debug_macro   0x00000000     0x8bb0 bin/uart.o
+ .debug_macro   0x00000000      0x44f bin/uart.o
+ .debug_macro   0x00000000       0xb2 bin/uart.o
+ .debug_macro   0x00000000      0x477 bin/uart.o
+ .debug_macro   0x00000000       0xae bin/uart.o
+ .debug_macro   0x00000000      0x41c bin/uart.o
+ .debug_macro   0x00000000      0x2bc bin/uart.o
+ .debug_macro   0x00000000      0x2bb bin/uart.o
+ .debug_macro   0x00000000       0x64 bin/uart.o
+ .debug_macro   0x00000000       0xe7 bin/uart.o
+ .debug_macro   0x00000000      0x62f bin/uart.o
+ .debug_macro   0x00000000      0x57b bin/uart.o
+ .debug_macro   0x00000000      0x342 bin/uart.o
+ .debug_macro   0x00000000      0x36c bin/uart.o
+ .debug_macro   0x00000000       0xf7 bin/uart.o
+ .debug_macro   0x00000000      0x73b bin/uart.o
+ .debug_macro   0x00000000      0x223 bin/uart.o
+ .debug_macro   0x00000000       0x34 bin/uart.o
+ .debug_macro   0x00000000       0x82 bin/uart.o
+ .debug_macro   0x00000000      0x144 bin/uart.o
+ .debug_macro   0x00000000       0xc3 bin/uart.o
+ .debug_macro   0x00000000       0x40 bin/uart.o
+ .debug_macro   0x00000000      0x3cf bin/uart.o
+ .debug_macro   0x00000000      0x188 bin/uart.o
+ .debug_macro   0x00000000      0x149 bin/uart.o
+ .debug_macro   0x00000000      0x279 bin/uart.o
+ .debug_macro   0x00000000       0x35 bin/uart.o
+ .group         0x00000000        0x8 bin/syslink.o
+ .group         0x00000000        0x8 bin/syslink.o
+ .group         0x00000000        0x8 bin/syslink.o
+ .group         0x00000000        0x8 bin/syslink.o
+ .group         0x00000000        0x8 bin/syslink.o
+ .group         0x00000000        0x8 bin/syslink.o
+ .group         0x00000000        0x8 bin/syslink.o
+ .text          0x00000000        0x0 bin/syslink.o
+ .data          0x00000000        0x0 bin/syslink.o
+ .bss           0x00000000        0x0 bin/syslink.o
+ .debug_macro   0x00000000      0x892 bin/syslink.o
+ .debug_macro   0x00000000       0x22 bin/syslink.o
+ .debug_macro   0x00000000       0x44 bin/syslink.o
+ .debug_macro   0x00000000       0x1c bin/syslink.o
+ .debug_macro   0x00000000      0x1f7 bin/syslink.o
+ .debug_macro   0x00000000       0x22 bin/syslink.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .group         0x00000000        0x8 bin/bootpin.o
+ .text          0x00000000        0x0 bin/bootpin.o
+ .data          0x00000000        0x0 bin/bootpin.o
+ .bss           0x00000000        0x0 bin/bootpin.o
+ .text.bootpinStartBootloader
+                0x00000000       0x38 bin/bootpin.o
+ .debug_macro   0x00000000      0x892 bin/bootpin.o
+ .debug_macro   0x00000000       0x22 bin/bootpin.o
+ .debug_macro   0x00000000       0x5e bin/bootpin.o
+ .debug_macro   0x00000000       0x3b bin/bootpin.o
+ .debug_macro   0x00000000       0x22 bin/bootpin.o
+ .debug_macro   0x00000000       0x44 bin/bootpin.o
+ .debug_macro   0x00000000       0x1c bin/bootpin.o
+ .debug_macro   0x00000000      0x1f7 bin/bootpin.o
+ .debug_macro   0x00000000       0x18 bin/bootpin.o
+ .debug_macro   0x00000000       0x42 bin/bootpin.o
+ .debug_macro   0x00000000      0xc91 bin/bootpin.o
+ .debug_macro   0x00000000     0x8bb0 bin/bootpin.o
+ .debug_macro   0x00000000      0x44f bin/bootpin.o
+ .debug_macro   0x00000000       0xb2 bin/bootpin.o
+ .debug_macro   0x00000000      0x477 bin/bootpin.o
+ .debug_macro   0x00000000       0xae bin/bootpin.o
+ .debug_macro   0x00000000      0x41c bin/bootpin.o
+ .debug_macro   0x00000000      0x2bc bin/bootpin.o
+ .debug_macro   0x00000000      0x2bb bin/bootpin.o
+ .debug_macro   0x00000000       0x64 bin/bootpin.o
+ .debug_macro   0x00000000       0xe7 bin/bootpin.o
+ .debug_macro   0x00000000      0x62f bin/bootpin.o
+ .debug_macro   0x00000000      0x57b bin/bootpin.o
+ .debug_macro   0x00000000      0x342 bin/bootpin.o
+ .debug_macro   0x00000000      0x36c bin/bootpin.o
+ .debug_macro   0x00000000       0xf7 bin/bootpin.o
+ .debug_macro   0x00000000      0x73b bin/bootpin.o
+ .debug_macro   0x00000000      0x223 bin/bootpin.o
+ .debug_macro   0x00000000       0x34 bin/bootpin.o
+ .debug_macro   0x00000000       0x82 bin/bootpin.o
+ .debug_macro   0x00000000      0x144 bin/bootpin.o
+ .debug_macro   0x00000000       0xc3 bin/bootpin.o
+ .debug_macro   0x00000000       0x40 bin/bootpin.o
+ .debug_macro   0x00000000      0x3cf bin/bootpin.o
+ .debug_macro   0x00000000      0x188 bin/bootpin.o
+ .debug_macro   0x00000000      0x149 bin/bootpin.o
+ .debug_macro   0x00000000      0x279 bin/bootpin.o
+ .debug_macro   0x00000000       0x35 bin/bootpin.o
+ .text          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x00000000        0x4 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x9c /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x34 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00000000       0x14 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x00000000        0x4 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xd4 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x50 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .text.atexit   0x00000000        0xc /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x20 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x2c /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x34 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xa4 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x34 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .data          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .bss           0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .eh_frame      0x00000000        0x4 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .jcr           0x00000000        0x4 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .text          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ .data          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ .bss           0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ .init          0x00000000        0x8 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ .fini          0x00000000        0x8 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ .ARM.attributes
+                0x00000000       0x22 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00005000         xrw
+FLASH            0x08000000         0x00020000         xr
+FLASHPATCH       0x00000000         0x00000000         r
+ENDFLASH         0x00000000         0x00000000         xr
+FLASHB1          0x00000000         0x00000000         xr
+EXTMEMB0         0x00000000         0x00000000         xr
+EXTMEMB1         0x00000000         0x00000000         xr
+EXTMEMB2         0x00000000         0x00000000         xr
+EXTMEMB3         0x00000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+LOAD /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+LOAD /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+LOAD bin/startup_stm32f40xx.o
+LOAD bin/system_stm32f4xx.o
+LOAD bin/stm32f4xx_rcc.o
+LOAD bin/stm32f4xx_gpio.o
+LOAD bin/stm32f4xx_usart.o
+LOAD bin/stm32f4xx_misc.o
+LOAD bin/stm32f4xx_flash.o
+LOAD bin/main.o
+LOAD bin/uart.o
+LOAD bin/syslink.o
+LOAD bin/bootpin.o
+LOAD /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a
+START GROUP
+LOAD /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a
+LOAD /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a
+END GROUP
+LOAD /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+LOAD /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+                0x00000400                __Stack_Size = 0x400
+                0x00000400                PROVIDE (_Stack_Size, __Stack_Size)
+                0x20004c00                __Stack_Init = (_estack - __Stack_Size)
+                0x20004c00                PROVIDE (_Stack_Init, __Stack_Init)
+                0x00000100                _Minimum_Stack_Size = 0x100
+                0x00000000                PROVIDE (Undefined_Handler, 0x0)
+                0x00000000                PROVIDE (SWI_Handler, 0x0)
+                0x00000000                PROVIDE (IRQ_Handler, 0x0)
+                0x00000000                PROVIDE (Prefetch_Handler, 0x0)
+                0x00000000                PROVIDE (Abort_Handler, 0x0)
+                0x00000000                PROVIDE (FIQ_Handler, 0x0)
+                0x00000000                PROVIDE (NMIException, 0x0)
+                0x00000000                PROVIDE (NMI_Handler, 0x0)
+                0x00000000                PROVIDE (HardFaultException, 0x0)
+                0x00000000                PROVIDE (HardFault_Handler, 0x0)
+                0x00000000                PROVIDE (MemManageException, 0x0)
+                0x00000000                PROVIDE (MemManage_Handler, 0x0)
+                0x00000000                PROVIDE (BusFaultException, 0x0)
+                0x00000000                PROVIDE (BusFault_Handler, 0x0)
+                0x00000000                PROVIDE (UsageFaultException, 0x0)
+                0x00000000                PROVIDE (UsageFault_Handler, 0x0)
+                0x00000000                PROVIDE (SVCHandler, 0x0)
+                0x00000000                PROVIDE (SVC_Handler, 0x0)
+                0x00000000                PROVIDE (DebugMonitor, 0x0)
+                0x00000000                PROVIDE (DebugMon_Handler, 0x0)
+                0x00000000                PROVIDE (PendSVC, 0x0)
+                0x00000000                PROVIDE (PendSV_Handler, 0x0)
+                0x00000000                PROVIDE (SysTickHandler, 0x0)
+                0x00000000                PROVIDE (SysTick_Handler, 0x0)
+                0x00000000                PROVIDE (WWDG_IRQHandler, 0x0)
+                0x00000000                PROVIDE (PVD_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TAMPER_IRQHandler, 0x0)
+                0x00000000                PROVIDE (RTC_IRQHandler, 0x0)
+                0x00000000                PROVIDE (FLASH_IRQHandler, 0x0)
+                0x00000000                PROVIDE (RCC_IRQHandler, 0x0)
+                0x00000000                PROVIDE (EXTI0_IRQHandler, 0x0)
+                0x00000000                PROVIDE (EXTI1_IRQHandler, 0x0)
+                0x00000000                PROVIDE (EXTI2_IRQHandler, 0x0)
+                0x00000000                PROVIDE (EXTI3_IRQHandler, 0x0)
+                0x00000000                PROVIDE (EXTI4_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMAChannel1_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMAChannel2_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMAChannel3_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMAChannel4_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMAChannel5_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMAChannel6_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMAChannel7_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMA1_Channel1_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMA1_Channel2_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMA1_Channel3_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMA1_Channel4_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMA1_Channel5_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMA1_Channel6_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMA1_Channel7_IRQHandler, 0x0)
+                0x00000000                PROVIDE (ADC_IRQHandler, 0x0)
+                0x00000000                PROVIDE (ADC1_2_IRQHandler, 0x0)
+                0x00000000                PROVIDE (USB_HP_CAN_TX_IRQHandler, 0x0)
+                0x00000000                PROVIDE (USB_HP_CAN1_TX_IRQHandler, 0x0)
+                0x00000000                PROVIDE (USB_LP_CAN_RX0_IRQHandler, 0x0)
+                0x00000000                PROVIDE (USB_LP_CAN1_RX0_IRQHandler, 0x0)
+                0x00000000                PROVIDE (CAN_RX1_IRQHandler, 0x0)
+                0x00000000                PROVIDE (CAN1_RX1_IRQHandler, 0x0)
+                0x00000000                PROVIDE (CAN_SCE_IRQHandler, 0x0)
+                0x00000000                PROVIDE (CAN1_SCE_IRQHandler, 0x0)
+                0x00000000                PROVIDE (EXTI9_5_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TIM1_BRK_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TIM1_UP_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TIM1_TRG_COM_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TIM1_CC_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TIM2_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TIM3_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TIM4_IRQHandler, 0x0)
+                0x00000000                PROVIDE (I2C1_EV_IRQHandler, 0x0)
+                0x00000000                PROVIDE (I2C1_ER_IRQHandler, 0x0)
+                0x00000000                PROVIDE (I2C2_EV_IRQHandler, 0x0)
+                0x00000000                PROVIDE (I2C2_ER_IRQHandler, 0x0)
+                0x00000000                PROVIDE (SPI1_IRQHandler, 0x0)
+                0x00000000                PROVIDE (SPI2_IRQHandler, 0x0)
+                0x00000000                PROVIDE (USART1_IRQHandler, 0x0)
+                0x00000000                PROVIDE (USART2_IRQHandler, 0x0)
+                0x00000000                PROVIDE (USART3_IRQHandler, 0x0)
+                0x00000000                PROVIDE (EXTI15_10_IRQHandler, 0x0)
+                0x00000000                PROVIDE (RTCAlarm_IRQHandler, 0x0)
+                0x00000000                PROVIDE (USBWakeUp_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TIM8_BRK_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TIM8_UP_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TIM8_TRG_COM_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TIM8_CC_IRQHandler, 0x0)
+                0x00000000                PROVIDE (ADC3_IRQHandler, 0x0)
+                0x00000000                PROVIDE (FSMC_IRQHandler, 0x0)
+                0x00000000                PROVIDE (SDIO_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TIM5_IRQHandler, 0x0)
+                0x00000000                PROVIDE (SPI3_IRQHandler, 0x0)
+                0x00000000                PROVIDE (UART4_IRQHandler, 0x0)
+                0x00000000                PROVIDE (UART5_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TIM6_IRQHandler, 0x0)
+                0x00000000                PROVIDE (TIM7_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMA2_Channel1_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMA2_Channel2_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMA2_Channel3_IRQHandler, 0x0)
+                0x00000000                PROVIDE (DMA2_Channel4_5_IRQHandler, 0x0)
+                0x42000000                PERIPH_BB_BASE = 0x42000000
+                0x22000000                SRAM_BB_BASE = 0x22000000
+                0x20000000                SRAM_BASE = 0x20000000
+                0x40000000                PERIPH_BASE = 0x40000000
+                0x40022000                PROVIDE (FLASH_BASE, 0x40022000)
+                0x1ffff800                PROVIDE (OB_BASE, 0x1ffff800)
+                0x40000000                APB1PERIPH_BASE = PERIPH_BASE
+                0x40010000                APB2PERIPH_BASE = (PERIPH_BASE + 0x10000)
+                0x40020000                AHBPERIPH_BASE = (PERIPH_BASE + 0x20000)
+                0x40000000                PROVIDE (TIM2, (APB1PERIPH_BASE + 0x0))
+                0x40000400                PROVIDE (TIM3, (APB1PERIPH_BASE + 0x400))
+                0x40000800                PROVIDE (TIM4, (APB1PERIPH_BASE + 0x800))
+                0x40002800                PROVIDE (RTC, (APB1PERIPH_BASE + 0x2800))
+                0x40002c00                PROVIDE (WWDG, (APB1PERIPH_BASE + 0x2c00))
+                0x40003000                PROVIDE (IWDG, (APB1PERIPH_BASE + 0x3000))
+                0x40003800                PROVIDE (SPI2, (APB1PERIPH_BASE + 0x3800))
+                0x40004400                PROVIDE (USART2, (APB1PERIPH_BASE + 0x4400))
+                0x40004800                PROVIDE (USART3, (APB1PERIPH_BASE + 0x4800))
+                0x40005400                PROVIDE (I2C1, (APB1PERIPH_BASE + 0x5400))
+                0x40005800                PROVIDE (I2C2, (APB1PERIPH_BASE + 0x5800))
+                0x40006400                PROVIDE (CAN, (APB1PERIPH_BASE + 0x6400))
+                0x40006c00                PROVIDE (BKP, (APB1PERIPH_BASE + 0x6c00))
+                0x40007000                PROVIDE (PWR, (APB1PERIPH_BASE + 0x7000))
+                0x40010000                PROVIDE (AFIO, (APB2PERIPH_BASE + 0x0))
+                0x40010400                PROVIDE (EXTI, (APB2PERIPH_BASE + 0x400))
+                0x40010800                PROVIDE (GPIOA, (APB2PERIPH_BASE + 0x800))
+                0x40010c00                PROVIDE (GPIOB, (APB2PERIPH_BASE + 0xc00))
+                0x40011000                PROVIDE (GPIOC, (APB2PERIPH_BASE + 0x1000))
+                0x40011400                PROVIDE (GPIOD, (APB2PERIPH_BASE + 0x1400))
+                0x40011800                PROVIDE (GPIOE, (APB2PERIPH_BASE + 0x1800))
+                0x40012400                PROVIDE (ADC1, (APB2PERIPH_BASE + 0x2400))
+                0x40012800                PROVIDE (ADC2, (APB2PERIPH_BASE + 0x2800))
+                0x40012c00                PROVIDE (TIM1, (APB2PERIPH_BASE + 0x2c00))
+                0x40013000                PROVIDE (SPI1, (APB2PERIPH_BASE + 0x3000))
+                0x40013800                PROVIDE (USART1, (APB2PERIPH_BASE + 0x3800))
+                0x40020000                PROVIDE (DMA, (AHBPERIPH_BASE + 0x0))
+                0x40020008                PROVIDE (DMA_Channel1, (AHBPERIPH_BASE + 0x8))
+                0x4002001c                PROVIDE (DMA_Channel2, (AHBPERIPH_BASE + 0x1c))
+                0x40020030                PROVIDE (DMA_Channel3, (AHBPERIPH_BASE + 0x30))
+                0x40020044                PROVIDE (DMA_Channel4, (AHBPERIPH_BASE + 0x44))
+                0x40020058                PROVIDE (DMA_Channel5, (AHBPERIPH_BASE + 0x58))
+                0x4002006c                PROVIDE (DMA_Channel6, (AHBPERIPH_BASE + 0x6c))
+                0x40020080                PROVIDE (DMA_Channel7, (AHBPERIPH_BASE + 0x80))
+                0x40021000                PROVIDE (RCC, (AHBPERIPH_BASE + 0x1000))
+                0xe000e000                SCS_BASE = 0xe000e000
+                0xe000e010                PROVIDE (SysTick, (SCS_BASE + 0x10))
+                0xe000e100                PROVIDE (NVIC, (SCS_BASE + 0x100))
+                0xe000ed00                PROVIDE (SCB, (SCS_BASE + 0xd00))
+                0x20005000                _estack = 0x20005000
+
+.isr_vector     0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 bin/startup_stm32f40xx.o
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.flashtext      0x08000188        0x0
+                0x08000188                . = ALIGN (0x4)
+ *(.flashtext)
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x08000188     0x1a80
+                0x08000188                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000188      0x134 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+                0x08000188                memcpy
+ *(.text.*)
+ .text.Reset_Handler
+                0x080002bc       0x44 bin/startup_stm32f40xx.o
+                0x080002bc                Reset_Handler
+ .text.Default_Handler
+                0x08000300        0x2 bin/startup_stm32f40xx.o
+                0x08000300                RTC_Alarm_IRQHandler
+                0x08000300                HASH_RNG_IRQHandler
+                0x08000300                EXTI2_IRQHandler
+                0x08000300                TIM8_CC_IRQHandler
+                0x08000300                DebugMon_Handler
+                0x08000300                TIM1_CC_IRQHandler
+                0x08000300                DMA2_Stream5_IRQHandler
+                0x08000300                HardFault_Handler
+                0x08000300                DMA1_Stream5_IRQHandler
+                0x08000300                PVD_IRQHandler
+                0x08000300                SDIO_IRQHandler
+                0x08000300                TAMP_STAMP_IRQHandler
+                0x08000300                PendSV_Handler
+                0x08000300                NMI_Handler
+                0x08000300                CAN2_RX1_IRQHandler
+                0x08000300                EXTI3_IRQHandler
+                0x08000300                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08000300                TIM1_UP_TIM10_IRQHandler
+                0x08000300                TIM8_UP_TIM13_IRQHandler
+                0x08000300                I2C3_ER_IRQHandler
+                0x08000300                EXTI0_IRQHandler
+                0x08000300                I2C2_EV_IRQHandler
+                0x08000300                DMA1_Stream2_IRQHandler
+                0x08000300                CAN1_RX0_IRQHandler
+                0x08000300                FPU_IRQHandler
+                0x08000300                OTG_HS_WKUP_IRQHandler
+                0x08000300                UsageFault_Handler
+                0x08000300                CAN2_SCE_IRQHandler
+                0x08000300                DMA2_Stream2_IRQHandler
+                0x08000300                SPI1_IRQHandler
+                0x08000300                TIM6_DAC_IRQHandler
+                0x08000300                TIM1_BRK_TIM9_IRQHandler
+                0x08000300                DCMI_IRQHandler
+                0x08000300                CAN2_RX0_IRQHandler
+                0x08000300                DMA2_Stream3_IRQHandler
+                0x08000300                USART3_IRQHandler
+                0x08000300                CRYP_IRQHandler
+                0x08000300                CAN1_RX1_IRQHandler
+                0x08000300                UART5_IRQHandler
+                0x08000300                DMA2_Stream0_IRQHandler
+                0x08000300                TIM4_IRQHandler
+                0x08000300                I2C1_EV_IRQHandler
+                0x08000300                DMA1_Stream6_IRQHandler
+                0x08000300                DMA1_Stream1_IRQHandler
+                0x08000300                UART4_IRQHandler
+                0x08000300                TIM3_IRQHandler
+                0x08000300                RCC_IRQHandler
+                0x08000300                TIM8_BRK_TIM12_IRQHandler
+                0x08000300                Default_Handler
+                0x08000300                EXTI15_10_IRQHandler
+                0x08000300                ADC_IRQHandler
+                0x08000300                DMA1_Stream7_IRQHandler
+                0x08000300                TIM7_IRQHandler
+                0x08000300                CAN2_TX_IRQHandler
+                0x08000300                TIM5_IRQHandler
+                0x08000300                DMA2_Stream7_IRQHandler
+                0x08000300                I2C3_EV_IRQHandler
+                0x08000300                EXTI9_5_IRQHandler
+                0x08000300                RTC_WKUP_IRQHandler
+                0x08000300                ETH_WKUP_IRQHandler
+                0x08000300                SPI2_IRQHandler
+                0x08000300                OTG_HS_EP1_IN_IRQHandler
+                0x08000300                MemManage_Handler
+                0x08000300                DMA1_Stream0_IRQHandler
+                0x08000300                CAN1_TX_IRQHandler
+                0x08000300                SVC_Handler
+                0x08000300                EXTI4_IRQHandler
+                0x08000300                FSMC_IRQHandler
+                0x08000300                ETH_IRQHandler
+                0x08000300                OTG_HS_EP1_OUT_IRQHandler
+                0x08000300                WWDG_IRQHandler
+                0x08000300                TIM2_IRQHandler
+                0x08000300                OTG_FS_WKUP_IRQHandler
+                0x08000300                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08000300                OTG_HS_IRQHandler
+                0x08000300                EXTI1_IRQHandler
+                0x08000300                USART2_IRQHandler
+                0x08000300                I2C2_ER_IRQHandler
+                0x08000300                DMA2_Stream1_IRQHandler
+                0x08000300                CAN1_SCE_IRQHandler
+                0x08000300                FLASH_IRQHandler
+                0x08000300                DMA2_Stream4_IRQHandler
+                0x08000300                BusFault_Handler
+                0x08000300                USART1_IRQHandler
+                0x08000300                OTG_FS_IRQHandler
+                0x08000300                SPI3_IRQHandler
+                0x08000300                DMA1_Stream4_IRQHandler
+                0x08000300                I2C1_ER_IRQHandler
+                0x08000300                DMA2_Stream6_IRQHandler
+                0x08000300                DMA1_Stream3_IRQHandler
+ *fill*         0x08000302        0x2 
+ .text.SystemInit
+                0x08000304       0x68 bin/system_stm32f4xx.o
+                0x08000304                SystemInit
+ .text.SetSysClock
+                0x0800036c       0xf4 bin/system_stm32f4xx.o
+ .text.RCC_GetClocksFreq
+                0x08000460      0x154 bin/stm32f4xx_rcc.o
+                0x08000460                RCC_GetClocksFreq
+ .text.RCC_AHB1PeriphClockCmd
+                0x080005b4       0x3c bin/stm32f4xx_rcc.o
+                0x080005b4                RCC_AHB1PeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x080005f0       0x3c bin/stm32f4xx_rcc.o
+                0x080005f0                RCC_APB2PeriphClockCmd
+ .text.RCC_AHB1PeriphResetCmd
+                0x0800062c       0x3c bin/stm32f4xx_rcc.o
+                0x0800062c                RCC_AHB1PeriphResetCmd
+ .text.GPIO_DeInit
+                0x08000668      0x164 bin/stm32f4xx_gpio.o
+                0x08000668                GPIO_DeInit
+ .text.GPIO_Init
+                0x080007cc      0x11c bin/stm32f4xx_gpio.o
+                0x080007cc                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x080008e8       0x34 bin/stm32f4xx_gpio.o
+                0x080008e8                GPIO_ReadInputDataBit
+ .text.GPIO_WriteBit
+                0x0800091c       0x30 bin/stm32f4xx_gpio.o
+                0x0800091c                GPIO_WriteBit
+ .text.GPIO_PinAFConfig
+                0x0800094c       0x90 bin/stm32f4xx_gpio.o
+                0x0800094c                GPIO_PinAFConfig
+ .text.USART_Init
+                0x080009dc      0x178 bin/stm32f4xx_usart.o
+                0x080009dc                USART_Init
+ .text.USART_Cmd
+                0x08000b54       0x40 bin/stm32f4xx_usart.o
+                0x08000b54                USART_Cmd
+ .text.USART_SendData
+                0x08000b94       0x24 bin/stm32f4xx_usart.o
+                0x08000b94                USART_SendData
+ .text.USART_ReceiveData
+                0x08000bb8       0x20 bin/stm32f4xx_usart.o
+                0x08000bb8                USART_ReceiveData
+ .text.USART_ITConfig
+                0x08000bd8       0x90 bin/stm32f4xx_usart.o
+                0x08000bd8                USART_ITConfig
+ .text.USART_GetFlagStatus
+                0x08000c68       0x38 bin/stm32f4xx_usart.o
+                0x08000c68                USART_GetFlagStatus
+ .text.NVIC_Init
+                0x08000ca0       0xc0 bin/stm32f4xx_misc.o
+                0x08000ca0                NVIC_Init
+ .text.NVIC_SetVectorTable
+                0x08000d60       0x2c bin/stm32f4xx_misc.o
+                0x08000d60                NVIC_SetVectorTable
+ .text.FLASH_Unlock
+                0x08000d8c       0x2c bin/stm32f4xx_flash.o
+                0x08000d8c                FLASH_Unlock
+ .text.FLASH_Lock
+                0x08000db8       0x1c bin/stm32f4xx_flash.o
+                0x08000db8                FLASH_Lock
+ .text.FLASH_EraseSector
+                0x08000dd4       0xc0 bin/stm32f4xx_flash.o
+                0x08000dd4                FLASH_EraseSector
+ .text.FLASH_ProgramWord
+                0x08000e94       0x68 bin/stm32f4xx_flash.o
+                0x08000e94                FLASH_ProgramWord
+ .text.FLASH_ClearFlag
+                0x08000efc       0x1c bin/stm32f4xx_flash.o
+                0x08000efc                FLASH_ClearFlag
+ .text.FLASH_GetStatus
+                0x08000f18       0x7c bin/stm32f4xx_flash.o
+                0x08000f18                FLASH_GetStatus
+ .text.FLASH_WaitForLastOperation
+                0x08000f94       0x30 bin/stm32f4xx_flash.o
+                0x08000f94                FLASH_WaitForLastOperation
+ .text.NVIC_EnableIRQ
+                0x08000fc4       0x30 bin/main.o
+ .text.SysTick_Handler
+                0x08000ff4       0x1c bin/main.o
+                0x08000ff4                SysTick_Handler
+ .text.main     0x08001010      0x248 bin/main.o
+                0x08001010                main
+ .text.bootloaderProcess
+                0x08001258      0x3b4 bin/main.o
+ .text.USART6_IRQHandler
+                0x0800160c       0x98 bin/uart.o
+                0x0800160c                USART6_IRQHandler
+ .text.uartInit
+                0x080016a4       0xf0 bin/uart.o
+                0x080016a4                uartInit
+ .text.uartIsRxReady
+                0x08001794       0x28 bin/uart.o
+                0x08001794                uartIsRxReady
+ .text.uartGetc
+                0x080017bc       0x50 bin/uart.o
+                0x080017bc                uartGetc
+ .text.uartPutc
+                0x0800180c       0x44 bin/uart.o
+                0x0800180c                uartPutc
+ .text.uartPuts
+                0x08001850       0x28 bin/uart.o
+                0x08001850                uartPuts
+ .text.syslinkReceive
+                0x08001878      0x1c4 bin/syslink.o
+                0x08001878                syslinkReceive
+ .text.syslinkSend
+                0x08001a3c       0xa8 bin/syslink.o
+                0x08001a3c                syslinkSend
+ .text.bootpinInit
+                0x08001ae4       0x4c bin/bootpin.o
+                0x08001ae4                bootpinInit
+ .text.bootpinDeinit
+                0x08001b30       0x2c bin/bootpin.o
+                0x08001b30                bootpinDeinit
+ .text.bootpinStartFirmware
+                0x08001b5c       0x38 bin/bootpin.o
+                0x08001b5c                bootpinStartFirmware
+ .text.bootpinNrfReset
+                0x08001b94       0x38 bin/bootpin.o
+                0x08001b94                bootpinNrfReset
+ *(.rodata)
+ .rodata        0x08001bcc        0x8 bin/main.o
+ .rodata        0x08001bd4        0x4 bin/syslink.o
+ *(.rodata*)
+ .rodata.sector_address
+                0x08001bd8       0x30 bin/main.o
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.init)
+ *(.fini)
+ *(.eh_frame)
+                0x08001c08                . = ALIGN (0x4)
+                0x08001c08                _param_start = .
+ *(.param)
+ *(.param.*)
+                0x08001c08                _param_stop = .
+                0x08001c08                . = ALIGN (0x4)
+                0x08001c08                _log_start = .
+ *(.log)
+ *(.log.*)
+                0x08001c08                _log_stop = .
+                0x08001c08                . = ALIGN (0x4)
+                0x08001c08                _etext = .
+
+.vfp11_veneer   0x08001c08        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08001c08        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08001c08        0x0
+ .iplt          0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+
+.rel.dyn        0x08001c08        0x0
+ .rel.iplt      0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+
+.libc           0x08001c08        0x0
+                0x08001c08                . = ALIGN (0x4)
+ *(.ARM.exidx*)
+                0x08001c08                . = ALIGN (0x4)
+                0x08001c08                _elibc = .
+                0x08001c08                _sidata = _elibc
+
+.flashpatch     0x00000000        0x0
+                0x00000000                . = ALIGN (0x4)
+ *(.flashpatch)
+                0x00000000                . = ALIGN (0x4)
+
+.endflash       0x00000000        0x0
+                0x00000000                . = ALIGN (0x4)
+ *(.endflash)
+                0x00000000                . = ALIGN (0x4)
+
+.data           0x20000000       0x14 load address 0x08001c08
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data.*)
+ .data.SystemCoreClock
+                0x20000000        0x4 bin/system_stm32f4xx.o
+                0x20000000                SystemCoreClock
+ .data.APBAHBPrescTable
+                0x20000004       0x10 bin/stm32f4xx_rcc.o
+ *(.RAMtext)
+                0x20000014                . = ALIGN (0x4)
+                0x20000014                _edata = .
+
+.igot.plt       0x20000014        0x0 load address 0x08001c1c
+ .igot.plt      0x00000000        0x0 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+
+.bss            0x20000014     0x2864 load address 0x08001c1c
+                0x20000014                . = ALIGN (0x4)
+                0x20000014                _sbss = .
+ *(.bss)
+ *(.bss.*)
+ .bss.tick      0x20000014        0x4 bin/main.o
+ .bss.buffer.8013
+                0x20000018     0x2800 bin/main.o
+ .bss.rxq       0x20002818       0x40 bin/uart.o
+ .bss.rxqTail   0x20002858        0x4 bin/uart.o
+ .bss.rxqHead   0x2000285c        0x4 bin/uart.o
+ .bss.dropped   0x20002860        0x4 bin/uart.o
+ .bss.devnull   0x20002864        0x4 bin/uart.o
+ .bss.state.4155
+                0x20002868        0x1 bin/syslink.o
+ *fill*         0x20002869        0x3 
+ .bss.step.4156
+                0x2000286c        0x4 bin/syslink.o
+ .bss.cksum_a.4158
+                0x20002870        0x1 bin/syslink.o
+ .bss.cksum_b.4159
+                0x20002871        0x1 bin/syslink.o
+ *fill*         0x20002872        0x2 
+ .bss.length.4157
+                0x20002874        0x4 bin/syslink.o
+ *(COMMON)
+                0x20002878                . = ALIGN (0x4)
+                0x20002878                _ebss = .
+                0x20002878                PROVIDE (end, _ebss)
+                0x20002878                PROVIDE (_end, _ebss)
+
+._usrstack      0x20002878      0x100 load address 0x08004480
+                0x20002878                . = ALIGN (0x4)
+                0x20002878                _susrstack = .
+                0x20002978                . = (. + _Minimum_Stack_Size)
+ *fill*         0x20002878      0x100 
+                0x20002978                . = ALIGN (0x4)
+                0x20002978                _eusrstack = .
+
+.b1text
+ *(.b1text)
+ *(.b1rodata)
+ *(.b1rodata*)
+
+.eb0text
+ *(.eb0text)
+ *(.eb0rodata)
+ *(.eb0rodata*)
+
+.eb1text
+ *(.eb1text)
+ *(.eb1rodata)
+ *(.eb1rodata*)
+
+.eb2text
+ *(.eb2text)
+ *(.eb2rodata)
+ *(.eb2rodata*)
+
+.eb3text
+ *(.eb3text)
+ *(.eb3rodata)
+ *(.eb3rodata*)
+                0x20002978                __exidx_start = .
+                0x20002978                __exidx_end = .
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x70
+ *(.comment)
+ .comment       0x00000000       0x70 bin/system_stm32f4xx.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 bin/stm32f4xx_rcc.o
+ .comment       0x00000000       0x71 bin/stm32f4xx_gpio.o
+ .comment       0x00000000       0x71 bin/stm32f4xx_usart.o
+ .comment       0x00000000       0x71 bin/stm32f4xx_misc.o
+ .comment       0x00000000       0x71 bin/stm32f4xx_flash.o
+ .comment       0x00000000       0x71 bin/main.o
+ .comment       0x00000000       0x71 bin/uart.o
+ .comment       0x00000000       0x71 bin/syslink.o
+ .comment       0x00000000       0x71 bin/bootpin.o
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x21 bin/startup_stm32f40xx.o
+ .ARM.attributes
+                0x00000021       0x39 bin/system_stm32f4xx.o
+ .ARM.attributes
+                0x0000005a       0x39 bin/stm32f4xx_rcc.o
+ .ARM.attributes
+                0x00000093       0x39 bin/stm32f4xx_gpio.o
+ .ARM.attributes
+                0x000000cc       0x39 bin/stm32f4xx_usart.o
+ .ARM.attributes
+                0x00000105       0x39 bin/stm32f4xx_misc.o
+ .ARM.attributes
+                0x0000013e       0x39 bin/stm32f4xx_flash.o
+ .ARM.attributes
+                0x00000177       0x39 bin/main.o
+ .ARM.attributes
+                0x000001b0       0x39 bin/uart.o
+ .ARM.attributes
+                0x000001e9       0x39 bin/syslink.o
+ .ARM.attributes
+                0x00000222       0x39 bin/bootpin.o
+ .ARM.attributes
+                0x0000025b       0x20 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x600
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 bin/system_stm32f4xx.o
+ .debug_aranges
+                0x00000030      0x1b8 bin/stm32f4xx_rcc.o
+ .debug_aranges
+                0x000001e8       0x88 bin/stm32f4xx_gpio.o
+ .debug_aranges
+                0x00000270      0x100 bin/stm32f4xx_usart.o
+ .debug_aranges
+                0x00000370       0x40 bin/stm32f4xx_misc.o
+ .debug_aranges
+                0x000003b0      0x158 bin/stm32f4xx_flash.o
+ .debug_aranges
+                0x00000508       0x40 bin/main.o
+ .debug_aranges
+                0x00000548       0x50 bin/uart.o
+ .debug_aranges
+                0x00000598       0x28 bin/syslink.o
+ .debug_aranges
+                0x000005c0       0x40 bin/bootpin.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x4c97
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5c4 bin/system_stm32f4xx.o
+ .debug_info    0x000005c4      0xe0a bin/stm32f4xx_rcc.o
+ .debug_info    0x000013ce      0x60d bin/stm32f4xx_gpio.o
+ .debug_info    0x000019db      0x9ca bin/stm32f4xx_usart.o
+ .debug_info    0x000023a5      0x545 bin/stm32f4xx_misc.o
+ .debug_info    0x000028ea      0x936 bin/stm32f4xx_flash.o
+ .debug_info    0x00003220      0xd5a bin/main.o
+ .debug_info    0x00003f7a      0x7e0 bin/uart.o
+ .debug_info    0x0000475a      0x228 bin/syslink.o
+ .debug_info    0x00004982      0x315 bin/bootpin.o
+
+.debug_abbrev   0x00000000      0xfb6
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x13b bin/system_stm32f4xx.o
+ .debug_abbrev  0x0000013b      0x1bf bin/stm32f4xx_rcc.o
+ .debug_abbrev  0x000002fa      0x1a8 bin/stm32f4xx_gpio.o
+ .debug_abbrev  0x000004a2      0x15a bin/stm32f4xx_usart.o
+ .debug_abbrev  0x000005fc      0x14a bin/stm32f4xx_misc.o
+ .debug_abbrev  0x00000746      0x19b bin/stm32f4xx_flash.o
+ .debug_abbrev  0x000008e1      0x2d9 bin/main.o
+ .debug_abbrev  0x00000bba      0x1a3 bin/uart.o
+ .debug_abbrev  0x00000d5d      0x123 bin/syslink.o
+ .debug_abbrev  0x00000e80      0x136 bin/bootpin.o
+
+.debug_line     0x00000000     0x3b47
+ *(.debug_line)
+ .debug_line    0x00000000      0x504 bin/system_stm32f4xx.o
+ .debug_line    0x00000504      0x8d9 bin/stm32f4xx_rcc.o
+ .debug_line    0x00000ddd      0x5d9 bin/stm32f4xx_gpio.o
+ .debug_line    0x000013b6      0x724 bin/stm32f4xx_usart.o
+ .debug_line    0x00001ada      0x4e9 bin/stm32f4xx_misc.o
+ .debug_line    0x00001fc3      0x804 bin/stm32f4xx_flash.o
+ .debug_line    0x000027c7      0x6ef bin/main.o
+ .debug_line    0x00002eb6      0x522 bin/uart.o
+ .debug_line    0x000033d8      0x242 bin/syslink.o
+ .debug_line    0x0000361a      0x52d bin/bootpin.o
+
+.debug_frame    0x00000000     0x18a8
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x7c bin/system_stm32f4xx.o
+ .debug_frame   0x0000007c      0x814 bin/stm32f4xx_rcc.o
+ .debug_frame   0x00000890      0x23c bin/stm32f4xx_gpio.o
+ .debug_frame   0x00000acc      0x490 bin/stm32f4xx_usart.o
+ .debug_frame   0x00000f5c       0xd8 bin/stm32f4xx_misc.o
+ .debug_frame   0x00001034      0x5b0 bin/stm32f4xx_flash.o
+ .debug_frame   0x000015e4       0xc8 bin/main.o
+ .debug_frame   0x000016ac      0x100 bin/uart.o
+ .debug_frame   0x000017ac       0x58 bin/syslink.o
+ .debug_frame   0x00001804       0xa4 bin/bootpin.o
+
+.debug_str      0x00000000    0x61e0e
+ *(.debug_str)
+ .debug_str     0x00000000    0x5d1da bin/system_stm32f4xx.o
+                              0x5d388 (size before relaxing)
+ .debug_str     0x0005d1da      0xc86 bin/stm32f4xx_rcc.o
+                              0x5deeb (size before relaxing)
+ .debug_str     0x0005de60      0x2c2 bin/stm32f4xx_gpio.o
+                              0x5d42f (size before relaxing)
+ .debug_str     0x0005e122      0x546 bin/stm32f4xx_usart.o
+                              0x5d742 (size before relaxing)
+ .debug_str     0x0005e668      0x1f1 bin/stm32f4xx_misc.o
+                              0x5d391 (size before relaxing)
+ .debug_str     0x0005e859      0x4c3 bin/stm32f4xx_flash.o
+                              0x5d651 (size before relaxing)
+ .debug_str     0x0005ed1c     0x2ef1 bin/main.o
+                              0x60354 (size before relaxing)
+ .debug_str     0x00061c0d       0xb9 bin/uart.o
+                              0x5da22 (size before relaxing)
+ .debug_str     0x00061cc6       0xe4 bin/syslink.o
+                               0x32b1 (size before relaxing)
+ .debug_str     0x00061daa       0x64 bin/bootpin.o
+                              0x5d35f (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+OUTPUT(cf2loader.elf elf32-littlearm)
+
+.debug_ranges   0x00000000      0x560
+ .debug_ranges  0x00000000       0x20 bin/system_stm32f4xx.o
+ .debug_ranges  0x00000020      0x1a8 bin/stm32f4xx_rcc.o
+ .debug_ranges  0x000001c8       0x78 bin/stm32f4xx_gpio.o
+ .debug_ranges  0x00000240       0xf0 bin/stm32f4xx_usart.o
+ .debug_ranges  0x00000330       0x30 bin/stm32f4xx_misc.o
+ .debug_ranges  0x00000360      0x148 bin/stm32f4xx_flash.o
+ .debug_ranges  0x000004a8       0x30 bin/main.o
+ .debug_ranges  0x000004d8       0x40 bin/uart.o
+ .debug_ranges  0x00000518       0x18 bin/syslink.o
+ .debug_ranges  0x00000530       0x30 bin/bootpin.o
+
+.debug_macro    0x00000000    0x10c14
+ .debug_macro   0x00000000      0x1c2 bin/system_stm32f4xx.o
+ .debug_macro   0x000001c2      0x892 bin/system_stm32f4xx.o
+ .debug_macro   0x00000a54       0x5e bin/system_stm32f4xx.o
+ .debug_macro   0x00000ab2       0x3b bin/system_stm32f4xx.o
+ .debug_macro   0x00000aed       0x22 bin/system_stm32f4xx.o
+ .debug_macro   0x00000b0f       0x44 bin/system_stm32f4xx.o
+ .debug_macro   0x00000b53       0x1c bin/system_stm32f4xx.o
+ .debug_macro   0x00000b6f      0x1f7 bin/system_stm32f4xx.o
+ .debug_macro   0x00000d66       0x18 bin/system_stm32f4xx.o
+ .debug_macro   0x00000d7e       0x42 bin/system_stm32f4xx.o
+ .debug_macro   0x00000dc0      0xc91 bin/system_stm32f4xx.o
+ .debug_macro   0x00001a51     0x8bb0 bin/system_stm32f4xx.o
+ .debug_macro   0x0000a601      0x44f bin/system_stm32f4xx.o
+ .debug_macro   0x0000aa50       0xb2 bin/system_stm32f4xx.o
+ .debug_macro   0x0000ab02      0x477 bin/system_stm32f4xx.o
+ .debug_macro   0x0000af79       0xae bin/system_stm32f4xx.o
+ .debug_macro   0x0000b027      0x41c bin/system_stm32f4xx.o
+ .debug_macro   0x0000b443      0x2bc bin/system_stm32f4xx.o
+ .debug_macro   0x0000b6ff      0x2bb bin/system_stm32f4xx.o
+ .debug_macro   0x0000b9ba       0x64 bin/system_stm32f4xx.o
+ .debug_macro   0x0000ba1e       0xe7 bin/system_stm32f4xx.o
+ .debug_macro   0x0000bb05      0x62f bin/system_stm32f4xx.o
+ .debug_macro   0x0000c134      0x57b bin/system_stm32f4xx.o
+ .debug_macro   0x0000c6af      0x342 bin/system_stm32f4xx.o
+ .debug_macro   0x0000c9f1      0x36c bin/system_stm32f4xx.o
+ .debug_macro   0x0000cd5d       0xf7 bin/system_stm32f4xx.o
+ .debug_macro   0x0000ce54      0x73b bin/system_stm32f4xx.o
+ .debug_macro   0x0000d58f      0x223 bin/system_stm32f4xx.o
+ .debug_macro   0x0000d7b2       0x34 bin/system_stm32f4xx.o
+ .debug_macro   0x0000d7e6       0x82 bin/system_stm32f4xx.o
+ .debug_macro   0x0000d868      0x144 bin/system_stm32f4xx.o
+ .debug_macro   0x0000d9ac       0xc3 bin/system_stm32f4xx.o
+ .debug_macro   0x0000da6f       0x40 bin/system_stm32f4xx.o
+ .debug_macro   0x0000daaf      0x3cf bin/system_stm32f4xx.o
+ .debug_macro   0x0000de7e      0x188 bin/system_stm32f4xx.o
+ .debug_macro   0x0000e006      0x149 bin/system_stm32f4xx.o
+ .debug_macro   0x0000e14f      0x279 bin/system_stm32f4xx.o
+ .debug_macro   0x0000e3c8       0x35 bin/system_stm32f4xx.o
+ .debug_macro   0x0000e3fd      0x272 bin/stm32f4xx_rcc.o
+ .debug_macro   0x0000e66f      0x629 bin/stm32f4xx_rcc.o
+ .debug_macro   0x0000ec98      0x1a8 bin/stm32f4xx_gpio.o
+ .debug_macro   0x0000ee40      0x2b6 bin/stm32f4xx_gpio.o
+ .debug_macro   0x0000f0f6      0x1c0 bin/stm32f4xx_usart.o
+ .debug_macro   0x0000f2b6      0x21d bin/stm32f4xx_usart.o
+ .debug_macro   0x0000f4d3      0x1ae bin/stm32f4xx_misc.o
+ .debug_macro   0x0000f681       0x7c bin/stm32f4xx_misc.o
+ .debug_macro   0x0000f6fd      0x1ae bin/stm32f4xx_flash.o
+ .debug_macro   0x0000f8ab      0x416 bin/stm32f4xx_flash.o
+ .debug_macro   0x0000fcc1      0x286 bin/main.o
+ .debug_macro   0x0000ff47       0x22 bin/main.o
+ .debug_macro   0x0000ff69       0x58 bin/main.o
+ .debug_macro   0x0000ffc1       0x35 bin/main.o
+ .debug_macro   0x0000fff6       0x9c bin/main.o
+ .debug_macro   0x00010092      0x166 bin/main.o
+ .debug_macro   0x000101f8       0x52 bin/main.o
+ .debug_macro   0x0001024a       0x16 bin/main.o
+ .debug_macro   0x00010260       0x43 bin/main.o
+ .debug_macro   0x000102a3      0x180 bin/main.o
+ .debug_macro   0x00010423      0x29d bin/main.o
+ .debug_macro   0x000106c0       0x10 bin/main.o
+ .debug_macro   0x000106d0       0x35 bin/main.o
+ .debug_macro   0x00010705       0x4c bin/main.o
+ .debug_macro   0x00010751       0x10 bin/main.o
+ .debug_macro   0x00010761       0x46 bin/main.o
+ .debug_macro   0x000107a7       0x34 bin/main.o
+ .debug_macro   0x000107db      0x1c3 bin/uart.o
+ .debug_macro   0x0001099e       0x7f bin/syslink.o
+ .debug_macro   0x00010a1d       0x46 bin/syslink.o
+ .debug_macro   0x00010a63      0x1b1 bin/bootpin.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_IRQHandler                                    bin/startup_stm32f40xx.o
+AHBPrescTable                                     bin/system_stm32f4xx.o
+BusFault_Handler                                  bin/startup_stm32f40xx.o
+CAN1_RX0_IRQHandler                               bin/startup_stm32f40xx.o
+CAN1_RX1_IRQHandler                               bin/startup_stm32f40xx.o
+CAN1_SCE_IRQHandler                               bin/startup_stm32f40xx.o
+CAN1_TX_IRQHandler                                bin/startup_stm32f40xx.o
+CAN2_RX0_IRQHandler                               bin/startup_stm32f40xx.o
+CAN2_RX1_IRQHandler                               bin/startup_stm32f40xx.o
+CAN2_SCE_IRQHandler                               bin/startup_stm32f40xx.o
+CAN2_TX_IRQHandler                                bin/startup_stm32f40xx.o
+CRYP_IRQHandler                                   bin/startup_stm32f40xx.o
+DCMI_IRQHandler                                   bin/startup_stm32f40xx.o
+DMA1_Stream0_IRQHandler                           bin/startup_stm32f40xx.o
+DMA1_Stream1_IRQHandler                           bin/startup_stm32f40xx.o
+DMA1_Stream2_IRQHandler                           bin/startup_stm32f40xx.o
+DMA1_Stream3_IRQHandler                           bin/startup_stm32f40xx.o
+DMA1_Stream4_IRQHandler                           bin/startup_stm32f40xx.o
+DMA1_Stream5_IRQHandler                           bin/startup_stm32f40xx.o
+DMA1_Stream6_IRQHandler                           bin/startup_stm32f40xx.o
+DMA1_Stream7_IRQHandler                           bin/startup_stm32f40xx.o
+DMA2_Stream0_IRQHandler                           bin/startup_stm32f40xx.o
+DMA2_Stream1_IRQHandler                           bin/startup_stm32f40xx.o
+DMA2_Stream2_IRQHandler                           bin/startup_stm32f40xx.o
+DMA2_Stream3_IRQHandler                           bin/startup_stm32f40xx.o
+DMA2_Stream4_IRQHandler                           bin/startup_stm32f40xx.o
+DMA2_Stream5_IRQHandler                           bin/startup_stm32f40xx.o
+DMA2_Stream6_IRQHandler                           bin/startup_stm32f40xx.o
+DMA2_Stream7_IRQHandler                           bin/startup_stm32f40xx.o
+DebugMon_Handler                                  bin/startup_stm32f40xx.o
+Default_Handler                                   bin/startup_stm32f40xx.o
+ETH_IRQHandler                                    bin/startup_stm32f40xx.o
+ETH_WKUP_IRQHandler                               bin/startup_stm32f40xx.o
+EXTI0_IRQHandler                                  bin/startup_stm32f40xx.o
+EXTI15_10_IRQHandler                              bin/startup_stm32f40xx.o
+EXTI1_IRQHandler                                  bin/startup_stm32f40xx.o
+EXTI2_IRQHandler                                  bin/startup_stm32f40xx.o
+EXTI3_IRQHandler                                  bin/startup_stm32f40xx.o
+EXTI4_IRQHandler                                  bin/startup_stm32f40xx.o
+EXTI9_5_IRQHandler                                bin/startup_stm32f40xx.o
+FLASH_ClearFlag                                   bin/stm32f4xx_flash.o
+                                                  bin/main.o
+FLASH_DataCacheCmd                                bin/stm32f4xx_flash.o
+FLASH_DataCacheReset                              bin/stm32f4xx_flash.o
+FLASH_EraseAllBank1Sectors                        bin/stm32f4xx_flash.o
+FLASH_EraseAllBank2Sectors                        bin/stm32f4xx_flash.o
+FLASH_EraseAllSectors                             bin/stm32f4xx_flash.o
+FLASH_EraseSector                                 bin/stm32f4xx_flash.o
+                                                  bin/main.o
+FLASH_GetFlagStatus                               bin/stm32f4xx_flash.o
+FLASH_GetStatus                                   bin/stm32f4xx_flash.o
+FLASH_IRQHandler                                  bin/startup_stm32f40xx.o
+FLASH_ITConfig                                    bin/stm32f4xx_flash.o
+FLASH_InstructionCacheCmd                         bin/stm32f4xx_flash.o
+FLASH_InstructionCacheReset                       bin/stm32f4xx_flash.o
+FLASH_Lock                                        bin/stm32f4xx_flash.o
+                                                  bin/main.o
+FLASH_OB_BORConfig                                bin/stm32f4xx_flash.o
+FLASH_OB_BootConfig                               bin/stm32f4xx_flash.o
+FLASH_OB_GetBOR                                   bin/stm32f4xx_flash.o
+FLASH_OB_GetPCROP                                 bin/stm32f4xx_flash.o
+FLASH_OB_GetPCROP1                                bin/stm32f4xx_flash.o
+FLASH_OB_GetRDP                                   bin/stm32f4xx_flash.o
+FLASH_OB_GetUser                                  bin/stm32f4xx_flash.o
+FLASH_OB_GetWRP                                   bin/stm32f4xx_flash.o
+FLASH_OB_GetWRP1                                  bin/stm32f4xx_flash.o
+FLASH_OB_Launch                                   bin/stm32f4xx_flash.o
+FLASH_OB_Lock                                     bin/stm32f4xx_flash.o
+FLASH_OB_PCROP1Config                             bin/stm32f4xx_flash.o
+FLASH_OB_PCROPConfig                              bin/stm32f4xx_flash.o
+FLASH_OB_PCROPSelectionConfig                     bin/stm32f4xx_flash.o
+FLASH_OB_RDPConfig                                bin/stm32f4xx_flash.o
+FLASH_OB_Unlock                                   bin/stm32f4xx_flash.o
+FLASH_OB_UserConfig                               bin/stm32f4xx_flash.o
+FLASH_OB_WRP1Config                               bin/stm32f4xx_flash.o
+FLASH_OB_WRPConfig                                bin/stm32f4xx_flash.o
+FLASH_PrefetchBufferCmd                           bin/stm32f4xx_flash.o
+FLASH_ProgramByte                                 bin/stm32f4xx_flash.o
+FLASH_ProgramDoubleWord                           bin/stm32f4xx_flash.o
+FLASH_ProgramHalfWord                             bin/stm32f4xx_flash.o
+FLASH_ProgramWord                                 bin/stm32f4xx_flash.o
+                                                  bin/main.o
+FLASH_SetLatency                                  bin/stm32f4xx_flash.o
+FLASH_Unlock                                      bin/stm32f4xx_flash.o
+                                                  bin/main.o
+FLASH_WaitForLastOperation                        bin/stm32f4xx_flash.o
+FPU_IRQHandler                                    bin/startup_stm32f40xx.o
+FSMC_IRQHandler                                   bin/startup_stm32f40xx.o
+GPIO_DeInit                                       bin/stm32f4xx_gpio.o
+                                                  bin/bootpin.o
+GPIO_Init                                         bin/stm32f4xx_gpio.o
+                                                  bin/bootpin.o
+                                                  bin/uart.o
+                                                  bin/main.o
+GPIO_PinAFConfig                                  bin/stm32f4xx_gpio.o
+                                                  bin/uart.o
+GPIO_PinLockConfig                                bin/stm32f4xx_gpio.o
+GPIO_ReadInputData                                bin/stm32f4xx_gpio.o
+GPIO_ReadInputDataBit                             bin/stm32f4xx_gpio.o
+                                                  bin/bootpin.o
+                                                  bin/uart.o
+                                                  bin/main.o
+GPIO_ReadOutputData                               bin/stm32f4xx_gpio.o
+GPIO_ReadOutputDataBit                            bin/stm32f4xx_gpio.o
+GPIO_ResetBits                                    bin/stm32f4xx_gpio.o
+GPIO_SetBits                                      bin/stm32f4xx_gpio.o
+GPIO_StructInit                                   bin/stm32f4xx_gpio.o
+GPIO_ToggleBits                                   bin/stm32f4xx_gpio.o
+GPIO_Write                                        bin/stm32f4xx_gpio.o
+GPIO_WriteBit                                     bin/stm32f4xx_gpio.o
+                                                  bin/main.o
+HASH_RNG_IRQHandler                               bin/startup_stm32f40xx.o
+HardFault_Handler                                 bin/startup_stm32f40xx.o
+I2C1_ER_IRQHandler                                bin/startup_stm32f40xx.o
+I2C1_EV_IRQHandler                                bin/startup_stm32f40xx.o
+I2C2_ER_IRQHandler                                bin/startup_stm32f40xx.o
+I2C2_EV_IRQHandler                                bin/startup_stm32f40xx.o
+I2C3_ER_IRQHandler                                bin/startup_stm32f40xx.o
+I2C3_EV_IRQHandler                                bin/startup_stm32f40xx.o
+MemManage_Handler                                 bin/startup_stm32f40xx.o
+NMI_Handler                                       bin/startup_stm32f40xx.o
+NVIC_Init                                         bin/stm32f4xx_misc.o
+                                                  bin/uart.o
+NVIC_PriorityGroupConfig                          bin/stm32f4xx_misc.o
+NVIC_SetVectorTable                               bin/stm32f4xx_misc.o
+                                                  bin/main.o
+NVIC_SystemLPConfig                               bin/stm32f4xx_misc.o
+OTG_FS_IRQHandler                                 bin/startup_stm32f40xx.o
+OTG_FS_WKUP_IRQHandler                            bin/startup_stm32f40xx.o
+OTG_HS_EP1_IN_IRQHandler                          bin/startup_stm32f40xx.o
+OTG_HS_EP1_OUT_IRQHandler                         bin/startup_stm32f40xx.o
+OTG_HS_IRQHandler                                 bin/startup_stm32f40xx.o
+OTG_HS_WKUP_IRQHandler                            bin/startup_stm32f40xx.o
+PVD_IRQHandler                                    bin/startup_stm32f40xx.o
+PendSV_Handler                                    bin/startup_stm32f40xx.o
+RCC_AHB1PeriphClockCmd                            bin/stm32f4xx_rcc.o
+                                                  bin/bootpin.o
+                                                  bin/uart.o
+                                                  bin/main.o
+RCC_AHB1PeriphClockLPModeCmd                      bin/stm32f4xx_rcc.o
+RCC_AHB1PeriphResetCmd                            bin/stm32f4xx_rcc.o
+                                                  bin/stm32f4xx_gpio.o
+RCC_AHB2PeriphClockCmd                            bin/stm32f4xx_rcc.o
+RCC_AHB2PeriphClockLPModeCmd                      bin/stm32f4xx_rcc.o
+RCC_AHB2PeriphResetCmd                            bin/stm32f4xx_rcc.o
+RCC_AHB3PeriphClockCmd                            bin/stm32f4xx_rcc.o
+RCC_AHB3PeriphClockLPModeCmd                      bin/stm32f4xx_rcc.o
+RCC_AHB3PeriphResetCmd                            bin/stm32f4xx_rcc.o
+RCC_APB1PeriphClockCmd                            bin/stm32f4xx_rcc.o
+RCC_APB1PeriphClockLPModeCmd                      bin/stm32f4xx_rcc.o
+RCC_APB1PeriphResetCmd                            bin/stm32f4xx_rcc.o
+                                                  bin/stm32f4xx_usart.o
+RCC_APB2PeriphClockCmd                            bin/stm32f4xx_rcc.o
+                                                  bin/uart.o
+RCC_APB2PeriphClockLPModeCmd                      bin/stm32f4xx_rcc.o
+RCC_APB2PeriphResetCmd                            bin/stm32f4xx_rcc.o
+                                                  bin/stm32f4xx_usart.o
+RCC_AdjustHSICalibrationValue                     bin/stm32f4xx_rcc.o
+RCC_BackupResetCmd                                bin/stm32f4xx_rcc.o
+RCC_ClearFlag                                     bin/stm32f4xx_rcc.o
+RCC_ClearITPendingBit                             bin/stm32f4xx_rcc.o
+RCC_ClockSecuritySystemCmd                        bin/stm32f4xx_rcc.o
+RCC_DeInit                                        bin/stm32f4xx_rcc.o
+RCC_GetClocksFreq                                 bin/stm32f4xx_rcc.o
+                                                  bin/stm32f4xx_usart.o
+RCC_GetFlagStatus                                 bin/stm32f4xx_rcc.o
+RCC_GetITStatus                                   bin/stm32f4xx_rcc.o
+RCC_GetSYSCLKSource                               bin/stm32f4xx_rcc.o
+RCC_HCLKConfig                                    bin/stm32f4xx_rcc.o
+RCC_HSEConfig                                     bin/stm32f4xx_rcc.o
+RCC_HSICmd                                        bin/stm32f4xx_rcc.o
+RCC_I2SCLKConfig                                  bin/stm32f4xx_rcc.o
+RCC_IRQHandler                                    bin/startup_stm32f40xx.o
+RCC_ITConfig                                      bin/stm32f4xx_rcc.o
+RCC_LSEConfig                                     bin/stm32f4xx_rcc.o
+RCC_LSICmd                                        bin/stm32f4xx_rcc.o
+RCC_LTDCCLKDivConfig                              bin/stm32f4xx_rcc.o
+RCC_MCO1Config                                    bin/stm32f4xx_rcc.o
+RCC_MCO2Config                                    bin/stm32f4xx_rcc.o
+RCC_PCLK1Config                                   bin/stm32f4xx_rcc.o
+RCC_PCLK2Config                                   bin/stm32f4xx_rcc.o
+RCC_PLLCmd                                        bin/stm32f4xx_rcc.o
+RCC_PLLConfig                                     bin/stm32f4xx_rcc.o
+RCC_PLLI2SCmd                                     bin/stm32f4xx_rcc.o
+RCC_PLLI2SConfig                                  bin/stm32f4xx_rcc.o
+RCC_PLLSAICmd                                     bin/stm32f4xx_rcc.o
+RCC_PLLSAIConfig                                  bin/stm32f4xx_rcc.o
+RCC_RTCCLKCmd                                     bin/stm32f4xx_rcc.o
+RCC_RTCCLKConfig                                  bin/stm32f4xx_rcc.o
+RCC_SAIBlockACLKConfig                            bin/stm32f4xx_rcc.o
+RCC_SAIBlockBCLKConfig                            bin/stm32f4xx_rcc.o
+RCC_SAIPLLI2SClkDivConfig                         bin/stm32f4xx_rcc.o
+RCC_SAIPLLSAIClkDivConfig                         bin/stm32f4xx_rcc.o
+RCC_SYSCLKConfig                                  bin/stm32f4xx_rcc.o
+RCC_TIMCLKPresConfig                              bin/stm32f4xx_rcc.o
+RCC_WaitForHSEStartUp                             bin/stm32f4xx_rcc.o
+RTC_Alarm_IRQHandler                              bin/startup_stm32f40xx.o
+RTC_WKUP_IRQHandler                               bin/startup_stm32f40xx.o
+Reset_Handler                                     bin/startup_stm32f40xx.o
+SDIO_IRQHandler                                   bin/startup_stm32f40xx.o
+SPI1_IRQHandler                                   bin/startup_stm32f40xx.o
+SPI2_IRQHandler                                   bin/startup_stm32f40xx.o
+SPI3_IRQHandler                                   bin/startup_stm32f40xx.o
+SVC_Handler                                       bin/startup_stm32f40xx.o
+SysTick_CLKSourceConfig                           bin/stm32f4xx_misc.o
+SysTick_Handler                                   bin/main.o
+                                                  bin/startup_stm32f40xx.o
+SystemCoreClock                                   bin/system_stm32f4xx.o
+                                                  bin/main.o
+SystemCoreClockUpdate                             bin/system_stm32f4xx.o
+SystemInit                                        bin/system_stm32f4xx.o
+                                                  bin/main.o
+                                                  bin/startup_stm32f40xx.o
+TAMP_STAMP_IRQHandler                             bin/startup_stm32f40xx.o
+TIM1_BRK_TIM9_IRQHandler                          bin/startup_stm32f40xx.o
+TIM1_CC_IRQHandler                                bin/startup_stm32f40xx.o
+TIM1_TRG_COM_TIM11_IRQHandler                     bin/startup_stm32f40xx.o
+TIM1_UP_TIM10_IRQHandler                          bin/startup_stm32f40xx.o
+TIM2_IRQHandler                                   bin/startup_stm32f40xx.o
+TIM3_IRQHandler                                   bin/startup_stm32f40xx.o
+TIM4_IRQHandler                                   bin/startup_stm32f40xx.o
+TIM5_IRQHandler                                   bin/startup_stm32f40xx.o
+TIM6_DAC_IRQHandler                               bin/startup_stm32f40xx.o
+TIM7_IRQHandler                                   bin/startup_stm32f40xx.o
+TIM8_BRK_TIM12_IRQHandler                         bin/startup_stm32f40xx.o
+TIM8_CC_IRQHandler                                bin/startup_stm32f40xx.o
+TIM8_TRG_COM_TIM14_IRQHandler                     bin/startup_stm32f40xx.o
+TIM8_UP_TIM13_IRQHandler                          bin/startup_stm32f40xx.o
+UART4_IRQHandler                                  bin/startup_stm32f40xx.o
+UART5_IRQHandler                                  bin/startup_stm32f40xx.o
+USART1_IRQHandler                                 bin/startup_stm32f40xx.o
+USART2_IRQHandler                                 bin/startup_stm32f40xx.o
+USART3_IRQHandler                                 bin/startup_stm32f40xx.o
+USART6_IRQHandler                                 bin/uart.o
+                                                  bin/startup_stm32f40xx.o
+USART_ClearFlag                                   bin/stm32f4xx_usart.o
+USART_ClearITPendingBit                           bin/stm32f4xx_usart.o
+USART_ClockInit                                   bin/stm32f4xx_usart.o
+USART_ClockStructInit                             bin/stm32f4xx_usart.o
+USART_Cmd                                         bin/stm32f4xx_usart.o
+                                                  bin/uart.o
+USART_DMACmd                                      bin/stm32f4xx_usart.o
+USART_DeInit                                      bin/stm32f4xx_usart.o
+USART_GetFlagStatus                               bin/stm32f4xx_usart.o
+                                                  bin/uart.o
+USART_GetITStatus                                 bin/stm32f4xx_usart.o
+USART_HalfDuplexCmd                               bin/stm32f4xx_usart.o
+USART_ITConfig                                    bin/stm32f4xx_usart.o
+                                                  bin/uart.o
+USART_Init                                        bin/stm32f4xx_usart.o
+                                                  bin/uart.o
+USART_IrDACmd                                     bin/stm32f4xx_usart.o
+USART_IrDAConfig                                  bin/stm32f4xx_usart.o
+USART_LINBreakDetectLengthConfig                  bin/stm32f4xx_usart.o
+USART_LINCmd                                      bin/stm32f4xx_usart.o
+USART_OneBitMethodCmd                             bin/stm32f4xx_usart.o
+USART_OverSampling8Cmd                            bin/stm32f4xx_usart.o
+USART_ReceiveData                                 bin/stm32f4xx_usart.o
+                                                  bin/uart.o
+USART_ReceiverWakeUpCmd                           bin/stm32f4xx_usart.o
+USART_SendBreak                                   bin/stm32f4xx_usart.o
+USART_SendData                                    bin/stm32f4xx_usart.o
+                                                  bin/uart.o
+USART_SetAddress                                  bin/stm32f4xx_usart.o
+USART_SetGuardTime                                bin/stm32f4xx_usart.o
+USART_SetPrescaler                                bin/stm32f4xx_usart.o
+USART_SmartCardCmd                                bin/stm32f4xx_usart.o
+USART_SmartCardNACKCmd                            bin/stm32f4xx_usart.o
+USART_StructInit                                  bin/stm32f4xx_usart.o
+USART_WakeUpConfig                                bin/stm32f4xx_usart.o
+UsageFault_Handler                                bin/startup_stm32f40xx.o
+WWDG_IRQHandler                                   bin/startup_stm32f40xx.o
+_Jv_RegisterClasses                               /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+__bss_end__                                       /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+__bss_start__                                     /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+__call_exitprocs                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+__deregister_frame_info                           /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+__dso_handle                                      /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+__fini_array_end                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+__fini_array_start                                /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+__init_array_end                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+__init_array_start                                /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+__libc_fini                                       /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+__libc_fini_array                                 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+__libc_init_array                                 /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+__preinit_array_end                               /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+__preinit_array_start                             /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+__register_exitproc                               /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+__register_frame_info                             /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+__stack                                           /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+_ebss                                             bin/startup_stm32f40xx.o
+_edata                                            bin/startup_stm32f40xx.o
+_estack                                           bin/startup_stm32f40xx.o
+_exit                                             /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+_fini                                             /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+_global_impure_ptr                                /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+_impure_ptr                                       /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+_init                                             /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+_mainCRTStartup                                   /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+_sbss                                             bin/startup_stm32f40xx.o
+_sdata                                            bin/startup_stm32f40xx.o
+_sidata                                           bin/startup_stm32f40xx.o
+_start                                            /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+atexit                                            /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+bootpinDeinit                                     bin/bootpin.o
+                                                  bin/main.o
+bootpinInit                                       bin/bootpin.o
+                                                  bin/main.o
+bootpinNrfReset                                   bin/bootpin.o
+                                                  bin/main.o
+bootpinStartBootloader                            bin/bootpin.o
+bootpinStartFirmware                              bin/bootpin.o
+                                                  bin/main.o
+delayMs                                           bin/main.o
+exit                                              /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+free                                              /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+g_pfnVectors                                      bin/startup_stm32f40xx.o
+hardware_init_hook                                /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+main                                              bin/main.o
+                                                  bin/startup_stm32f40xx.o
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+malloc                                            /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+memcpy                                            /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+                                                  bin/main.o
+memset                                            /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+                                                  /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+software_init_hook                                /home/bitcraze/bin/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+syslinkReceive                                    bin/syslink.o
+                                                  bin/main.o
+syslinkSend                                       bin/syslink.o
+                                                  bin/main.o
+uartGetc                                          bin/uart.o
+                                                  bin/syslink.o
+uartInit                                          bin/uart.o
+                                                  bin/main.o
+uartIsRxReady                                     bin/uart.o
+                                                  bin/syslink.o
+uartIsTxReady                                     bin/uart.o
+uartPutc                                          bin/uart.o
+                                                  bin/syslink.o
+uartPuts                                          bin/uart.o
+                                                  bin/syslink.o
